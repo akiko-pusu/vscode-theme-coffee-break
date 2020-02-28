@@ -1,0 +1,23 @@
+{
+    "name": "coffee-break",
+    "displayName": "Coffee Break",
+    "description": "Light Color Theme Coffee Break",
+    "version": "0.0.1",
+    "publisher": "akiko",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coffee Break",
+                "uiTheme": "vs",
+                "path": "./themes/coffee-break-color-theme.json"
+            }
+        ]
+    }
+}
