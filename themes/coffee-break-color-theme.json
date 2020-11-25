@@ -1,14 +1,14 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "orange-pekoe",
+	"name": "coffee-break",
 	"type": "light",
 	"colors": {
 		"editor.background": "#fefdf7",
 		"editor.foreground": "#7d301f",
-		"editor.lineHighlightBackground": "#fae6d6",
+		"editor.lineHighlightBackground": "#fadfc9",
 		"editor.selectionBackground": "#fff0d5",
 		"editorCursor.foreground": "#e43d00",
-		"editorWhitespace.foreground": "#feefdf",
+		"editorWhitespace.foreground": "#f7d3ad",
 		"activityBar.activeBorder": "#f7e4d6",
 		"activityBar.background": "#280c00",
 		"activityBar.dropBackground": "#e98f8f43",

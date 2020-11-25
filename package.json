@@ -2,8 +2,12 @@
     "name": "coffee-break",
     "displayName": "Coffee Break",
     "description": "Light Color Theme Coffee Break",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "akiko",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/akiko-pusu/vscode-theme-coffee-break"
+    },
     "engines": {
         "vscode": "^1.42.0"
     },
